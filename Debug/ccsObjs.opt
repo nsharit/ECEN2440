@@ -1,0 +1,1 @@
+"./startup_msp432p401r_ccs.obj" "./system_msp432p401r.obj" "./lib/motor_control.obj" "./src/Blinking_LED.obj" "./src/Complete_Course.obj" "./src/lab_0.8_main.obj" "./src/tester.obj" "../msp432p401r.cmd" -llibc.a 
